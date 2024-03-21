@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\Group 3\Polimorfizmi\obj\Debug\Polimorfizmi.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Group 3\Polimorfizmi\obj\Debug\Polimorfizmi.Form1.resources
+C:\Users\student\source\repos\Group 3\Polimorfizmi\obj\Debug\Polimorfizmi.Properties.Resources.resources
+C:\Users\student\source\repos\Group 3\Polimorfizmi\obj\Debug\Polimorfizmi.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Group 3\Polimorfizmi\obj\Debug\Polimorfizmi.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Group 3\Polimorfizmi\bin\Debug\Polimorfizmi.exe.config
+C:\Users\student\source\repos\Group 3\Polimorfizmi\bin\Debug\Polimorfizmi.exe
+C:\Users\student\source\repos\Group 3\Polimorfizmi\bin\Debug\Polimorfizmi.pdb
+C:\Users\student\source\repos\Group 3\Polimorfizmi\obj\Debug\Polimorfizmi.exe
+C:\Users\student\source\repos\Group 3\Polimorfizmi\obj\Debug\Polimorfizmi.pdb
